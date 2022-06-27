@@ -1,6 +1,6 @@
 ## ROSALIND
 
-*This repository is made in the purpose of learning.*
+*This repository is made in the purpose of learning*
 
 [ROSALIND](https://rosalind.info/about/) is a bioinformatics platform that explores the many uses of python in solving algorithms and dealing with data.
 It's divided to 5 sub-repositpries:
