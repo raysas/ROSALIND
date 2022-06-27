@@ -11,4 +11,4 @@ It's divided to 5 sub-repositpries:
 *a version could be found [here](https://stepic.org).*
 - **Algorithmic Heights:** focus on solving complex algorithms using python
 
-et voila! Happy Coding!
+The code provided is a personal approach to solve the problems
