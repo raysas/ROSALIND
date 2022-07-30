@@ -18,3 +18,25 @@ Given: Positive integers n≤40 and k≤5.
 Return: The total number of rabbit pairs that will be present after n months, 
 if we begin with 1 pair and in each generation, every pair of reproduction-age rabbits produces a litter of k rabbit pairs (instead of only 1 pair)
 '''
+#month 1: 1 pair
+#month 2: 1 pair
+#month 3: k+1 pairs      k new + 1 or k*U1+U2
+#month 4: 2k+1 pairs     k new + k+1 
+#month 5: k^2+3k+1 pairs k(k+1) new + 2k+1
+#so here's the following seq: base case for n=1,2, Un=1
+#induction step: k*Un-2 + Un-1
+
+
+def rabbitsRecurrence(n,k):
+    #takes number of months n and number of offspring k and returns the number of pairs of rabbits present after n months
+    if n==1 or n==2:
+        return 1
+    else:
+        return k*rabbitsRecurrence(n-2,k)+rabbitsRecurrence(n-1,k)
+
+def main():
+    num=eval(input("enter n:"))
+    k_val=eval(input("enter k:"))
+    print("rabbits recurrence value for n=%d and k=%d is %d" %(num,k_val,rabbitsRecurrence(num,k_val)))
+
+main()
