@@ -1,5 +1,7 @@
 ## ROSALIND
 
+*under construction*
+
 [ROSALIND](https://rosalind.info/about/) is a bioinformatics platform that explores the many uses of python in solving algorithms and dealing with data. Named after [Rosalind Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin)- if you don't know her: do know her (p.s. if you've heard of Watson and Crick and not Franklin shame on you)
 
 *This repo is a personal approach in solving rosalind problems: everything uploaded have been successfully tested on the website*
