@@ -29,7 +29,7 @@ solve problems with the use of software tools
 
 ### Bioinformatics Textbook Track:
 
-collection of [exercises](./Bioinformatics%20Textbook%Track) from Bioinformatics Algorithms: An Active-Learning Approach by Phillip Compeau & Pavel Pevzne.
+collection of [exercises](./Bioinformatics%20Textbook%20Track) from Bioinformatics Algorithms: An Active-Learning Approach by Phillip Compeau & Pavel Pevzne.
 *a version could be found [here](https://stepic.org).*
 
 list of chapters:
