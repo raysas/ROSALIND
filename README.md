@@ -1,14 +1,41 @@
 ## ROSALIND
 
-*This repository is made in the purpose of learning*
+*This repo is my personal approach in solving rosalind problems*
 
 [ROSALIND](https://rosalind.info/about/) is a bioinformatics platform that explores the many uses of python in solving algorithms and dealing with data.
 It's divided to 5 sub-repositories:
-- **Python Village:** setting up python and learning beginner's tools that are of a good use later on
-- **Bioinformatics Stronghold:** start digging through algorithms that are of good use in analyzing biological problems
-- **Bioinformatics Armory:** solve problems with the use of software tools
-- **Bioinformatics Textbook Track:** collection of exercises from Bioinformatics Algorithms: An Active-Learning Approach by Phillip Compeau & Pavel Pevzne.
-*a version could be found [here](https://stepic.org).*
-- **Algorithmic Heights:** focus on solving complex algorithms using python
+### Python Village
 
-The code provided is a personal approach to solve the problems
+[py village](./Python%20Village): setting up python and learning beginner's tools that are of a good use later on.
+List of problems:
+- [INI1](Python%20Village/readme.md#INI1)
+- [INI2](Python%20Village/readme.md#INI2)
+- [INI3](Python%20Village/readme.md#INI3)
+- [INI4](Python%20Village/readme.md#INI4)
+- [INI5](Python%20Village/readme.md#INI5)
+- [INI6](Python%20Village/readme.md#INI6)
+
+### Bioinformatics Stronghold:
+
+[the stronghold](./Bioinformatics%20Stronghold): start digging through algorithms that are of good use in analyzing biological problems
+
+### Bioinformatics Armory: 
+
+solve problems with the use of software tools
+
+### Bioinformatics Textbook Track:
+
+collection of [exercises](./Bioinformatics%20Textbook%Track) from Bioinformatics Algorithms: An Active-Learning Approach by Phillip Compeau & Pavel Pevzne.
+*a version could be found [here](https://stepic.org).*
+
+list of chapters:
+- Where in the Genome Does DNA Replication Begin?
+- Which DNA Patterns Play the Role of Molecular Clocks?
+- How Do We Assemble Genomes?
+- How Do We Sequence Antibiotics?
+-  How Do We Compare Biological Sequences?
+- Are There Fragile Regions in the Human Genome?
+
+### Algorithmic Heights: 
+
+[algorithms](./Algorithmic%20Heights) that focus on solving complex algorithms using python
