@@ -33,7 +33,7 @@ collection of [exercises](./Bioinformatics%20Textbook%20Track) from Bioinformati
 *a version could be found [here](https://stepic.org).*
 
 list of chapters:
-- [Where in the Genome Does DNA Replication Begin?](./Bioinformatics%20Textbook%20Track/Chapter%201:%20Where%20in%20The%20DNA%20Does%20Replication%20Starts)
+- [Where in the Genome Does DNA Replication Begin?](./Bioinformatics%20Textbook%20Track/#Chapter%201:%20Where%20in%20The%20DNA%20Does%20Replication%20Starts)
 - Which DNA Patterns Play the Role of Molecular Clocks?
 - How Do We Assemble Genomes?
 - How Do We Sequence Antibiotics?
