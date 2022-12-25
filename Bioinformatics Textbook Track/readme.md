@@ -19,8 +19,8 @@ The process starts by solving small computational problems which are the followi
 - [Counting words problem](ba1a.py): takes a DNA string and a sequence and returns the number of occurences of this sequence in this DNA string
 - [Frequent words problem](ba1b.py): takes a DNA string and a number k and returns all possible most frequent k-mers 
 when looking for the origin of replication must find a region where there exist a k-mer of a sufficently large k that is unusually repeated (proba and stat wise).
-(uses counting words to check how many times each k-mer is repeated to return only the max counted k-mer, not that efficient runs in $O(kn^2)$ could be reduced using a frequency list data structure)
-- [Reverse pattern problem](ba1c.py): takes a DNA sequence and returns it's reverse complementary sequence. To reduce the options of k-mers, check for frequency of these sequences and their complements within the same region.
+(uses counting words as a subroutine to check how many times each k-mer is repeated to return only the max counted k-mer, not that efficient runs in $O(kn^2)$ could be reduced using a frequency list data structure)
+- [Reverse pattern problem](ba1c.py): takes a DNA sequence and returns it's reverse complementary sequence. Useful to reduce the options of k-mers by checking the frequency of these sequences and their complements within the same region.
 (could be the desired signal for DnaA)
 - [Pattern matching problem](ba1d.py): takes a DNA string and a sequence and returns all the positions where this sequence is found starting by index 0 from the 1st bp.
 This way we get to find whether the repitions of the k-mer are close or widely distributed throughout the genome.
