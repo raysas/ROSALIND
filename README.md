@@ -42,5 +42,5 @@ list of chapters:
 
 ### Algorithmic Heights: 
 
-[algorithms](./Algorithmic%20Heights) that focus on solving complex algorithms using python
+[Complex algorithms](./Algorithmic%20Heights) that focus on solving problems using python
 
