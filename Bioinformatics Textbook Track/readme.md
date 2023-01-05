@@ -1,9 +1,10 @@
-## Bioinformatics Algorithms: An Active Learning Approach
+--------------------------------------------------------
+# Bioinformatics Algorithms: An Active Learning Approach
 
 *2015 by Phillip Compeau and Pavel Pevzner. All rights reserved.*
 Tested to be correct on the website before uploading, still trying to figure out the rest
 
-### Chapter 1: Where in The DNA Does Replication Starts
+## Chapter 1: Where in The DNA Does Replication Starts
 
 **The biological problem:**
 
