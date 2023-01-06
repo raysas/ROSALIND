@@ -9,7 +9,7 @@ Tested to be correct on the website before uploading, still trying to figure out
 **The biological problem:**
 
 ok so replication starts at the origin of replication- called OriC in bacteria. How does it know the origin is the origin though? 
-Protein DnaA scans through the whole genome until it finds a consensus sequence for the origin, then it calls for DnaC whcih brings whit it DnaB (or helicase) and hops in to create a replication bubble and proceed replication with the rest of the enzymes
+Protein DnaA scans through the whole genome until it finds a consensus sequence for the origin, then it calls for DnaC which brings with it DnaB (or helicase) and hops in to create a replication bubble and proceed replication with the rest of the enzymes.
 Neat stuff (mind blowing lecture by dr roy✨)
 Now what we're doing here:
 
