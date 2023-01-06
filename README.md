@@ -1,4 +1,4 @@
-## ROSALIND
+# <p align="center> ROSALIND
 
 *under construction*
 
@@ -8,7 +8,8 @@
 
 It's divided to 5 sub-repositories:
 
-### Python Village
+-----------------
+## Python Village
 
 [py village](./Python%20Village): setting up python and learning beginner's tools that are of a good use later on.
 List of problems:
@@ -19,15 +20,18 @@ List of problems:
 - [INI5](Python%20Village/readme.md#INI5)
 - [INI6](Python%20Village/readme.md#INI6)
 
-### Bioinformatics Stronghold:
+-------------------------------
+## Bioinformatics Stronghold:
 
 [the stronghold](./Bioinformatics%20Stronghold): start digging through algorithms that are of good use in analyzing biological problems
 
-### Bioinformatics Armory: 
+-------------------------
+## Bioinformatics Armory: 
 
 solve problems with the use of software tools
 
-### Bioinformatics Textbook Track:
+---------------------------------
+## Bioinformatics Textbook Track:
 
 collection of [exercises](./Bioinformatics%20Textbook%20Track) from Bioinformatics Algorithms: An Active-Learning Approach by Phillip Compeau & Pavel Pevzne.
 *a version could be found [here](https://stepic.org).*
@@ -40,7 +44,8 @@ list of chapters:
 -  How Do We Compare Biological Sequences?
 - Are There Fragile Regions in the Human Genome?
 
-### Algorithmic Heights: 
+-----------------------
+## Algorithmic Heights: 
 
 [Complex algorithms](./Algorithmic%20Heights) that focus on solving problems using python
 
