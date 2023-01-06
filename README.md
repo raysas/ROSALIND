@@ -8,18 +8,17 @@
 
 It's divided to 5 sub-repositories:
 
+## Algorithmic Heights: 
 
-## Python Village
+[Complex algorithms](./Algorithmic%20Heights) that focus on solving problems using python
 
-[py village](./Python%20Village): setting up python and learning beginner's tools that are of a good use later on.
-List of problems:
-- [Installing python](Python%20Village/readme.md#INI1)
-- [Variables and some arithmetic](Python%20Village/readme.md#INI2)
-- [Strings and lists](Python%20Village/readme.md#INI3)
-- [Conditions and loops](Python%20Village/readme.md#INI4)
-- [Working with files](Python%20Village/readme.md#INI5)
-- [Dictionaries](Python%20Village/readme.md#INI6)
-
+list of problems:
+* [Fibonacci numbers](./Algorithmic%20Heights/FIBO.py)
+* [Binary search](./Algorithmic%20Heights/BINS.py)
+* [Degree Array](./Algorithmic%20Heights/DEG.py)
+* [Insertion sort](./Algorithmic%20Heights/INS.py)
+* [Merge two sorted arrays](./Algorithmic%20Heights/MER.py)
+* [Merge sort](./Algorithmic%20Heights/MS.py)
 
 ## Bioinformatics Stronghold:
 
@@ -34,12 +33,7 @@ list of problems:
 * [Counting point mutations](./Bioinformatics%20Stronghold/HAMM.py)
 * [Translating RNA into protein](./Bioinformatics%20Stronghold/PROT.py)
 * [Mortal fibonacci rabbits](./Bioinformatics%20Stronghold/FIBD.py)
-
-## Bioinformatics Armory: 
-
-solve problems with the use of software tools
-
-
+  
 ## Bioinformatics Textbook Track:
 
 collection of [exercises](./Bioinformatics%20Textbook%20Track) from Bioinformatics Algorithms: An Active-Learning Approach by Phillip Compeau & Pavel Pevzne.
@@ -53,14 +47,17 @@ list of chapters:
 -  How Do We Compare Biological Sequences?
 - Are There Fragile Regions in the Human Genome?
 
-## Algorithmic Heights: 
+## Bioinformatics Armory: 
 
-[Complex algorithms](./Algorithmic%20Heights) that focus on solving problems using python
+solve problems with the use of software tools
 
-list of problems:
-* [Fibonacci numbers](./Algorithmic%20Heights/FIBO.py)
-* [Binary search](./Algorithmic%20Heights/BINS.py)
-* [Degree Array](./Algorithmic%20Heights/DEG.py)
-* [Insertion sort](./Algorithmic%20Heights/INS.py)
-* [Merge two sorted arrays](./Algorithmic%20Heights/MER.py)
-* [Merge sort](./Algorithmic%20Heights/MS.py)
+## Python Village
+
+[py village](./Python%20Village): setting up python and learning beginner's tools that are of a good use later on.
+List of problems:
+- [Installing python](Python%20Village/readme.md#INI1)
+- [Variables and some arithmetic](Python%20Village/readme.md#INI2)
+- [Strings and lists](Python%20Village/readme.md#INI3)
+- [Conditions and loops](Python%20Village/readme.md#INI4)
+- [Working with files](Python%20Village/readme.md#INI5)
+- [Dictionaries](Python%20Village/readme.md#INI6)
