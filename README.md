@@ -1,4 +1,4 @@
-# <p align="center> ROSALIND
+# <p align="center"> ROSALIND
 
 *under construction*
 
