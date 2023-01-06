@@ -1,4 +1,4 @@
-# <p align="center"> ROSALIND
+# <p align="center"> ROSALIND <img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;" width="40" height="40"> 
 
 *under construction*
 
