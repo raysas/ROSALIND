@@ -48,3 +48,13 @@ list of chapters:
 
 [Complex algorithms](./Algorithmic%20Heights) that focus on solving problems using python
 
+list of problems:
+* [Counting DNA nucleotides](./Algorithmic%20Heights/DNA.py)
+* [Transcribing DNA into RNA](./Algorithmic%20Heights/RNA.py)
+* [Complementing a strand of DNA](./Algorithmic%20Heights/REVC.py)
+* [Rabbits and recurrence relations](./Algorithmic%20Heights/FIB.py)
+* [Computing GC content](./Algorithmic%20Heights/GC.py)
+* [Counting point mutations](./Algorithmic%20Heights/HAMM.py)
+* [Translating RNA into protein](./Algorithmic%20Heights/PROT.py)
+* [Mortal fibonacci rabbits](./Algorithmic%20Heights/FIBD.py)
+
