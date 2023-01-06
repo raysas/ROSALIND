@@ -13,12 +13,12 @@ It's divided to 5 sub-repositories:
 
 [py village](./Python%20Village): setting up python and learning beginner's tools that are of a good use later on.
 List of problems:
-- [INI1](Python%20Village/readme.md#INI1)
-- [INI2](Python%20Village/readme.md#INI2)
-- [INI3](Python%20Village/readme.md#INI3)
-- [INI4](Python%20Village/readme.md#INI4)
-- [INI5](Python%20Village/readme.md#INI5)
-- [INI6](Python%20Village/readme.md#INI6)
+- [Installing python](Python%20Village/readme.md#INI1)
+- [Variables and some arithmetic](Python%20Village/readme.md#INI2)
+- [Strings and lists](Python%20Village/readme.md#INI3)
+- [Conditions and loops](Python%20Village/readme.md#INI4)
+- [Working with files](Python%20Village/readme.md#INI5)
+- [Dictionaries](Python%20Village/readme.md#INI6)
 
 
 ## Bioinformatics Stronghold:
