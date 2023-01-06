@@ -26,14 +26,14 @@ List of problems:
 [the stronghold](./Bioinformatics%20Stronghold): start digging through algorithms that are of good use in analyzing biological problems
   
 list of problems:
-* [Counting DNA nucleotides](./Algorithmic%20Heights/DNA.py)
-* [Transcribing DNA into RNA](./Algorithmic%20Heights/RNA.py)
-* [Complementing a strand of DNA](./Algorithmic%20Heights/REVC.py)
-* [Rabbits and recurrence relations](./Algorithmic%20Heights/FIB.py)
-* [Computing GC content](./Algorithmic%20Heights/GC.py)
-* [Counting point mutations](./Algorithmic%20Heights/HAMM.py)
-* [Translating RNA into protein](./Algorithmic%20Heights/PROT.py)
-* [Mortal fibonacci rabbits](./Algorithmic%20Heights/FIBD.py)
+* [Counting DNA nucleotides](./Bioinformatics%20Stronghold/DNA.py)
+* [Transcribing DNA into RNA](./Bioinformatics%20Stronghold/RNA.py)
+* [Complementing a strand of DNA](./Bioinformatics%20Stronghold/REVC.py)
+* [Rabbits and recurrence relations](./Bioinformatics%20Stronghold/FIB.py)
+* [Computing GC content](./Bioinformatics%20Stronghold/GC.py)
+* [Counting point mutations](./Bioinformatics%20Stronghold/HAMM.py)
+* [Translating RNA into protein](./Bioinformatics%20Stronghold/PROT.py)
+* [Mortal fibonacci rabbits](./Bioinformatics%20Stronghold/FIBD.py)
 
 ## Bioinformatics Armory: 
 
@@ -56,3 +56,11 @@ list of chapters:
 ## Algorithmic Heights: 
 
 [Complex algorithms](./Algorithmic%20Heights) that focus on solving problems using python
+
+list of problems:
+* [Fibonacci numbers](./Algorithmic%20Heights/FIBO.py)
+* [Binary search](./Algorithmic%20Heights/BINS.py)
+* [Degree Array](./Algorithmic%20Heights/DEG.py)
+* [Insertion sort](./Algorithmic%20Heights/INS.py)
+* [Merge two sorted arrays](./Algorithmic%20Heights/MER.py)
+* [Merge sort](./Algorithmic%20Heights/MS.py)
