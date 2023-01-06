@@ -37,14 +37,13 @@ list of problems:
 ## Bioinformatics Textbook Track:
 
 collection of [exercises](./Bioinformatics%20Textbook%20Track) from Bioinformatics Algorithms: An Active-Learning Approach by Phillip Compeau & Pavel Pevzne.
-*a version could be found [here](https://stepic.org).*
 
-list of chapters:
+list of chapters: (Volume I)
 - [Where in the Genome Does DNA Replication Begin?](./Bioinformatics%20Textbook%20Track/#Chapter%201:%20Where%20in%20The%20DNA%20Does%20Replication%20Starts)
 - Which DNA Patterns Play the Role of Molecular Clocks?
 - How Do We Assemble Genomes?
 - How Do We Sequence Antibiotics?
--  How Do We Compare Biological Sequences?
+- How Do We Compare Biological Sequences?
 - Are There Fragile Regions in the Human Genome?
 
 ## Bioinformatics Armory: 
