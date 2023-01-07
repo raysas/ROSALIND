@@ -19,6 +19,7 @@ list of problems:
 * [Insertion sort](./Algorithmic%20Heights/INS.py)
 * [Merge two sorted arrays](./Algorithmic%20Heights/MER.py)
 * [Merge sort](./Algorithmic%20Heights/MS.py)
+* [Double-Degree Array](./Algorithmic%20Heights/DDEG.py)
 
 ## Bioinformatics Stronghold:
 
