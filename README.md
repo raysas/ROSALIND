@@ -20,6 +20,7 @@ list of problems:
 * [Merge two sorted arrays](./Algorithmic%20Heights/MER.py)
 * [Merge sort](./Algorithmic%20Heights/MS.py)
 * [Double-Degree Array](./Algorithmic%20Heights/DDEG.py)
+* [Majority Element](./Algorithmic%20Heights/MAJ.py)
 
 ## Bioinformatics Stronghold:
 
@@ -34,6 +35,7 @@ list of problems:
 * [Counting point mutations](./Bioinformatics%20Stronghold/HAMM.py)
 * [Translating RNA into protein](./Bioinformatics%20Stronghold/PROT.py)
 * [Mortal fibonacci rabbits](./Bioinformatics%20Stronghold/FIBD.py)
+
   
 ## Bioinformatics Textbook Track:
 
