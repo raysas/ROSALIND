@@ -35,6 +35,7 @@ list of problems:
 * [Counting point mutations](./Bioinformatics%20Stronghold/HAMM.py)
 * [Translating RNA into protein](./Bioinformatics%20Stronghold/PROT.py)
 * [Mortal fibonacci rabbits](./Bioinformatics%20Stronghold/FIBD.py)
+* [Finding a Motif in DNA](./Bioinformatics%20Stronghold/SUBS.py)
 
   
 ## Bioinformatics Textbook Track:
